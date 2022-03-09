@@ -1,0 +1,47 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "name": "Europa",
+      "description": "O continente mais antigo.",
+      "about": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "bannerImage": "https://cdn.discordapp.com/attachments/880027077884137492/951050670037938186/Continent_Image.svg",
+      "slideImage": "https://cdn.discordapp.com/attachments/880027077884137492/951050574286168074/Banner.svg",
+      "numberOfCountries": 50,
+      "numberOfLanguages": 50,
+      "numberOfCities": 27,
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "flag": "https://cdn.discordapp.com/attachments/880027077884137492/951052259184222258/Ellipse_6.svg",
+          "picture": "https://cdn.discordapp.com/attachments/880027077884137492/951052259360399400/Foto.svg"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "flag": "https://cdn.discordapp.com/attachments/880027077884137492/951052427510046720/Ellipse_61.svg",
+          "picture": "https://cdn.discordapp.com/attachments/880027077884137492/951052427723948032/Foto1.svg"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "flag": "https://cdn.discordapp.com/attachments/880027077884137492/951052713381216316/Ellipse_62.svg",
+          "picture": "https://cdn.discordapp.com/attachments/880027077884137492/951052713536417832/Foto2.svg"
+        },
+        {
+          "name": "Praga",
+          "country": "República Tcheca",
+          "flag": "https://cdn.discordapp.com/attachments/880027077884137492/951052883602853988/Ellipse_63.svg",
+          "picture": "https://cdn.discordapp.com/attachments/880027077884137492/951052883841908796/Foto3.svg"
+        },
+        {
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "flag": "https://cdn.discordapp.com/attachments/880027077884137492/951053056856965140/Ellipse_64.svg",
+          "picture": "https://cdn.discordapp.com/attachments/880027077884137492/951053057142186004/Foto4.svg"
+        }
+      ]
+    }
+  ]
+}
